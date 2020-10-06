@@ -19,7 +19,7 @@
     },
     "WisdomAndGrace": {
       "commandName": "Project",
-      "launchBrowser": false,
+      "launchBrowser": true,
       "launchUrl": "api/quote",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
